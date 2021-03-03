@@ -1,6 +1,6 @@
 ﻿# GamerViews
 
-CRUD application made with React and Express
+CRUD application made with React, Express, and MongoDB
 - Features user authentication and authorization
 - Any user can view game reviews
 - Only registered users who are logged in can create/update/delete reviews
