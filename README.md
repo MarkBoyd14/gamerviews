@@ -21,6 +21,6 @@ Built using:
 - express
 - axios
 - mongoose
-- jwt
+- jsonwebtoken
 - passport
 - dotenv
