@@ -13,7 +13,6 @@ How to use:
 
 Built using: 
 - create-react-app
-- react
 - react-bootstrap
 - react-toastify
 - express
