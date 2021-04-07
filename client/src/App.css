@@ -60,12 +60,6 @@ label {
   z-index: 1;
 }
 
-.home-cta-btns {
-  width: 50%;
-  justify-content: space-evenly;
-  z-index: 1;
-}
-
 .form-inline {
   display: inline-block;
   margin: 0;
@@ -105,16 +99,30 @@ label {
 }
 
 .btn-primary {
-  font-size: 2em;
+  font-size: 1.5em;
   background-color: #1b2838;
   border-color: #fff;
   width: 10rem;
 }
 
 .btn-primary:hover {
-  color: #1b2838;
-  background-color: #fff;
-  border-color: #1b2838;
+  color: #1b2838 !important;
+  background-color: #fff !important;
+  border-color: #1b2838 !important;
+}
+
+.btn-primary:focus {
+  color: #1b2838 !important;
+  background-color: #fff !important;
+  border-color: #1b2838 !important;
+  box-shadow: none !important;
+}
+
+.btn-primary:active {
+  color: #1b2838 !important;
+  background-color: #fff !important;
+  border-color: #1b2838 !important;
+  box-shadow: none !important;
 }
 
 .btn-edit {
